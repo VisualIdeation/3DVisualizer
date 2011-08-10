@@ -70,6 +70,7 @@ MODULE_NAMES = AnalyzeFile \
                StructuredHexahedralTecplotASCIIFile \
                UnstructuredHexahedralTecplotASCIIFile \
                ImageStack \
+	       Reservoir \
 	       SimpleMCNP \
 	       SimpleMCNPFluxOnly \
 	       RealMCNP \
